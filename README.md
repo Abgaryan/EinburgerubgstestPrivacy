@@ -51,5 +51,8 @@ Diese App, **ET (Einbürgerungstest)**, wurde entwickelt, um Ihnen bei der Vorbe
 
 ## 8. Kontakt
 
+## 8. Kontakt
+
 - **Support:**  
-  Wenn Sie Fragen oder Anliegen bezüglich der Datenschutzrichtlinie haben, wenden Sie sich bitte über die **Support-Funktion im App Store** an uns.
+  Wenn Sie Fragen oder Anliegen bezüglich der Datenschutzrichtlinie haben, wenden Sie sich bitte über die **Support-Funktion im App Store** an uns oder schreiben Sie uns eine E-Mail an [appseed.contact@gmail.com](mailto:appseed.contact@gmail.com?subject=Feedback%20Einburgerungs%20test&body=Dear%20Einburgerungs%20test%20team,).
+
