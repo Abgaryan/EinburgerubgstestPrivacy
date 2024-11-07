@@ -33,7 +33,7 @@ Diese App, **ET (Einbürgerungstest)**, wurde entwickelt, um Ihnen bei der Vorbe
 ## 5. Genauigkeit der Informationen
 
 - **Aktualisierungen:**  
-  Wir aktualisieren die App regelmäßig, um sicherzustellen, dass alle Inhalte und Testfragen auf dem neuesten Stand der offiziellen BAMF-Daten sind.  
+  Wir aktualisieren die App regelmäßig, um sicherzustellen, dass alle Inhalte und Testfragen auf dem neuesten Stand der [offiziellen BAMF-Daten](https://oet.bamf.de/ords/oetut/f?p=514:1::::::) sind.  
   Die aktuelle Version der App spiegelt die **Oktober 2024** Aktualisierungen wider.  
   Sollten Sie Unstimmigkeiten feststellen, können Sie den Support über den App Store kontaktieren.
 
